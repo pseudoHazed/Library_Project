@@ -84,8 +84,8 @@ class Movie_Library():
             with open("library","w") as file:
                 currentNode = self.head
                 while currentNode:
-                    file.write(f"{current_node.name}--{current_node.release_date}--{current_node.duration}--{current_node.genre}\n")
-                    current_node = current_node.next
+                    file.write(f"{currentNode.name}--{currentNode.release_date}--{currentNode.duration}--{currentNode.genre}\n")
+                    currentNode = currentNode.next
             print("Library saved Successfully")
         except Exception as error:
             print(f"Error: {error}")
