@@ -9,3 +9,5 @@ It allows users to add, remove, search, and filter movies, as well as read from 
 - Filter movies by attributes
 - Display all movies
 - Import/export movie data to/from a file
+
+PS> I DON'T KNOW WHAT I'M DOING IN GITHUB SO YEAH...
