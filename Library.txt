@@ -1,0 +1,71 @@
+Inception--2010--148--Sci-Fi
+The Matrix--1999--136--Action/Sci-Fi
+The Godfather--1972--175--Crime/Drama
+Interstellar--2014--169--Sci-Fi
+Arrival--2016--116--Sci-Fi
+Pulp Fiction--1994--154--Crime/Drama
+The Shawshank Redemption--1994--142--Drama
+Forrest Gump--1994--142--Drama/Romance
+The Dark Knight--2008--152--Action/Crime
+Fight Club--1999--139--Drama
+The Lord of the Rings: The Fellowship of the Ring--2001--178--Fantasy/Adventure
+The Lord of the Rings: The Two Towers--2002--179--Fantasy/Adventure
+The Lord of the Rings: The Return of the King--2003--201--Fantasy/Adventure
+The Prestige--2006--130--Drama/Mystery
+Gladiator--2000--155--Action/Drama
+The Departed--2006--151--Crime/Drama
+Mad Max: Fury Road--2015--120--Action/Sci-Fi
+The Big Lebowski--1998--117--Comedy/Crime
+The Silence of the Lambs--1991--118--Thriller/Crime
+Se7en--1995--127--Thriller/Crime
+Goodfellas--1990--146--Crime/Drama
+A Beautiful Mind--2001--135--Drama
+Inglourious Basterds--2009--153--War/Action
+The Revenant--2015--156--Adventure/Drama
+Django Unchained--2012--165--Drama/Western
+The Wolf of Wall Street--2013--180--Comedy/Drama
+12 Years a Slave--2013--134--Drama/History
+The Social Network--2010--120--Biography/Drama
+The Grand Budapest Hotel--2014--99--Comedy/Drama
+Moonlight--2016--111--Drama
+Her--2013--126--Romance/Sci-Fi
+The Martian--2015--144--Adventure/Sci-Fi
+Whiplash--2014--107--Drama/Music
+Birdman--2014--119--Comedy/Drama
+Spotlight--2015--128--Crime/Drama
+La La Land--2016--128--Musical/Romance
+The Shape of Water--2017--123--Fantasy/Romance
+Gravity--2013--91--Sci-Fi/Thriller
+Blade Runner 2049--2017--164--Sci-Fi/Drama
+Mad Max--1979--92--Action/Sci-Fi
+Jurassic Park--1993--127--Adventure/Sci-Fi
+Star Wars: Episode IV - A New Hope--1977--121--Sci-Fi/Adventure
+Star Wars: Episode V - The Empire Strikes Back--1980--124--Sci-Fi/Adventure
+Star Wars: Episode VI - Return of the Jedi--1983--131--Sci-Fi/Adventure
+Indiana Jones and the Raiders of the Lost Ark--1981--115--Adventure/Action
+Indiana Jones and the Last Crusade--1989--127--Adventure/Action
+Back to the Future--1985--116--Sci-Fi/Adventure
+Back to the Future Part II--1989--108--Sci-Fi/Adventure
+Back to the Future Part III--1990--118--Sci-Fi/Adventure
+E.T. the Extra-Terrestrial--1982--115--Sci-Fi/Adventure
+Jurassic World--2015--124--Adventure/Sci-Fi
+The Avengers--2012--143--Action/Sci-Fi
+Avengers: Age of Ultron--2015--141--Action/Sci-Fi
+Avengers: Infinity War--2018--149--Action/Sci-Fi
+Avengers: Endgame--2019--181--Action/Sci-Fi
+Black Panther--2018--134--Action/Sci-Fi
+Thor: Ragnarok--2017--130--Action/Comedy
+Guardians of the Galaxy--2014--121--Action/Sci-Fi
+Guardians of the Galaxy Vol. 2--2017--136--Action/Sci-Fi
+Doctor Strange--2016--115--Action/Sci-Fi
+Wonder Woman--2017--141--Action/Adventure
+Aquaman--2018--143--Action/Adventure
+Shazam!--2019--132--Action/Comedy
+Joker--2019--122--Crime/Drama
+The Irishman--2019--209--Crime/Drama
+Once Upon a Time in Hollywood--2019--161--Comedy/Drama
+Parasite--2019--132--Thriller/Drama
+The Lighthouse--2019--109--Drama/Fantasy
+1917--2019--119--War/Drama
+Ford v Ferrari--2019--152--Action/Drama
+Jojo Rabbit--2019--108--Comedy/Drama
