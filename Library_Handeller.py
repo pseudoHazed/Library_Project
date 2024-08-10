@@ -82,10 +82,21 @@ class Movie_Library():
     def write_to_file(self):
         try:
             with open("library","w") as file:
-                currentNode = self.head
+                currentNode = self.head.next
+                # Fixed the None -- None -- None -- None issue in the first Line with making self.head to self.head.next
                 while currentNode:
-                    file.write(f"{currentNode.name}--{currentNode.release_date}--{currentNode.duration}--{currentNode.genre}\n")
+                    file.write(f"{currentNode.name}--{currentNode.releaseDate}--{currentNode.duration}--{currentNode.genre}\n")
                     currentNode = currentNode.next
             print("Library saved Successfully")
         except Exception as error:
             print(f"Error: {error}")
+    #################################
+    # HELPER FUNCTIONS SO TO MAKE TEMP SAVE AND TO Revert
+    #P1 new:
+    def _temp_save(self , *, tempCounter = [0]):
+        if tempCounter[0] == 5:
+            tempCounter[0] = 0
+        tempCounter[0] +=1
+        self.write_to_file(f"Temp{tempCounter[0]}.txt")
+    #################################
+    
